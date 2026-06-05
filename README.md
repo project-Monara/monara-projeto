@@ -1,7 +1,6 @@
 # Monero
 
-Direitos autorais (c) 2024-2026, Projeto Monara.
-
+Copyright (c) 2024-2026, Monara Project.
 ## Table of Contents
 
   - [Development resources](#development-resources)
