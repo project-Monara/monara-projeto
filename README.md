@@ -1,6 +1,10 @@
-# Monero
+# Monara (MNR)
 
 Copyright (c) 2024-2026, Monara Project.
+Lead Developer: Nicolas Van Sagen
+
+Monara is a privacy-centric cryptocurrency built upon the CryptoNote framework, focused on absolute decentralization and financial sovereignty. By implementing the unique, ASIC-resistant **RandomCash** algorithm, Monara ensures that network security and coin emission remain entirely in the hands of everyday users through CPU-only mining.
+
 ## Table of Contents
 
   - [Development resources](#development-resources)
