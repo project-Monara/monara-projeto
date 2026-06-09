@@ -1,5 +1,5 @@
 # Copyright (c) 2014-2024, The Monero Project
-#
+#2026 Nicolas Van Sagen
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without modification, are
